@@ -200,7 +200,6 @@ body {
 .board-image {
     width: 500px;
     height: 700px;
-    transform: rotate(20.23deg);
     object-fit: cover;
     filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.15));
     animation: levitate 3s ease-in-out infinite alternate;
@@ -366,4 +365,5 @@ body {
         gap: 20px;
         height: auto;
     }
+
 }
