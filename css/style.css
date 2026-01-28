@@ -205,15 +205,6 @@ body {
     animation: levitate 3s ease-in-out infinite alternate;
 }
 
-@keyframes levitate {
-    0% {
-        transform: rotate(20.23deg) translateY(0);
-    }
-    100% {
-        transform: rotate(20.23deg) translateY(-20px);
-    }
-}
-
 /* Правая часть - надпись специальности */
 .specialty-title-container {
     height: 400px;
@@ -367,3 +358,4 @@ body {
     }
 
 }
+
